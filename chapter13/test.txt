@@ -1,0 +1,2 @@
+hello
+cat test.txt | go run rot13.go
